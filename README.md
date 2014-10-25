@@ -4,7 +4,6 @@
 
 * jam
 * eggs
-* milk
 * bread
 * butter
 
